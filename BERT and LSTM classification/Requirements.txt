@@ -1,0 +1,45 @@
+This is the requirements file.
+
+Following requirements are neede for binary_bert and multilabel_bert:
+
+1. Python 3.7.12
+2. Install required libraries.
+3. Install simpletransformers library
+5. Install wandb library
+6. Use a GPU enabled system. If unavaialable, use_cuda = False in model command.
+7. Run the code.
+
+Following requirements are needed for binary model and multilabel models:
+
+1. Python 3.7.12
+2. Install all the required libraries.
+3. Run the files.
+
+Commmon lbraries used: 
+
+tensorflow==2.7.0
+simpletransformers==0.63.3
+sklearn==1.0.2
+pandas==1.0.5
+numpy==1.18.5
+wandb==0.12.9
+nltk==3.5
+plotly==5.4.0
+scikit-learn==1.0.2
+tqdm==4.62.1
+torch==1.10.0
+matplotlib==3.2.2
+scipy==1.5.0
+statsmodels==0.11.1
+tokenizers==0.10.3
+tables==3.6.1
+tabulate==0.8.9
+seaborn==0.10.1
+segmentation-models==1.0.1
+Send2Trash==1.5.0
+pyswip==0.2.10
+pytest==5.4.3
+pandas-datareader==0.10.0
+pandocfilters==1.4.2
+paramiko==2.7.1
+parso==0.7.0
